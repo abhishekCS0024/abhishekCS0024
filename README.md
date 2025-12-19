@@ -1,4 +1,4 @@
-<img src="[IMAGE_URL](https://www.vectorstock.com/royalty-free-vector/ai-banner-concept-in-the-digital-style-generative-vector-54502294)" alt="description" width="600"/>
+<img src="ai-banner-concept-in-the-digital-style-generative-vector-54502294.png" alt="description" width="600"/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Python Developer | Data Science & Generative AI Enthusiast</h3>
