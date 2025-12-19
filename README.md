@@ -17,7 +17,7 @@ Turning data into insights • Building intelligent systems • Always learning 
   <li>🔭 Currently working on <b>Generative AI & Agentic AI systems</b></li>
   <li>🌱 Learning <b>LangChain, LangGraph & LLM workflows</b></li>
   <li>💬 Ask me about <b>Python, Machine Learning, Deep Learning, GenAI</b></li>
-  <li>📧 Reach me at <b>abhishekkumarbihta0021@gmail.com >ab></li>
+  <li>📧 Reach me at <b>abhishekkumarbihta0021@gmail.com </li>
 </ul>
 
 <hr/>
