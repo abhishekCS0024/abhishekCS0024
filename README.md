@@ -1,84 +1,82 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh Solanki</h1>
-<h3 align="center">Data Scientist | Python & SQL | Generative AI Explorer</h3>
+<table>
+<tr>
+<td width="30%" valign="top">
 
-<p align="center">
-Curious mind • Data-driven thinker • Turning data into insights 🚀
-</p>
+<img src="https://avatars.githubusercontent.com/abhishekcs0024" width="200" style="border-radius:50%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### 👤 Abhishek Kumar
+**Python Developer**  
+**Data Science & GenAI Enthusiast**
 
----
-
-## 👨‍💻 About Me
-
-Hey there! I’m a curious mind who loves exploring the world of data and uncovering the stories hidden within it.  
-I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better.
-
-When I’m not working with data, you’ll probably find me:
-- 📚 Reading a good book  
-- 🧪 Experimenting with side projects  
-- 🐞 Wondering why my last bug fix broke everything else  
-
-Always learning. Always questioning. Welcome to my GitHub.
+📍 India  
+📧 abhishek.2327CS12  
 
 ---
 
-## 🧠 What I Work With
-
-- 🔭 **Currently working on:** Generative AI & Data Science projects  
-- 🌱 **Currently learning:** LangChain, Agentic AI, LLM workflows  
-- 💬 **Ask me about:** Python, Data Science, Machine Learning, SQL  
-- 📫 **Reach me at:** `abhishekssolanki2727@gmail.com`
+### 🌐 Connect
+🔗 [LinkedIn](https://linkedin.com/in/abhishek-kumar-2968772a5)  
+🐦 [Twitter](https://twitter.com/@0021abhish90684)  
+📊 [Kaggle](https://kaggle.com/abhishekcs0021)  
+💻 [LeetCode](https://www.leetcode.com/abhishek2327)
 
 ---
 
-## 🌐 Connect With Me
+### 🧠 Focus Areas
+- Data Science  
+- Generative AI  
+- Agentic AI  
+- LLM Workflows  
 
-<p align="left">
-<a href="https://linkedin.com/in/pysolanki" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-</a>
-<a href="https://twitter.com/ThePySolanki" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
-</a>
-<a href="https://www.kaggle.com/pysolanki" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
-</a>
-<a href="https://leetcode.com/u/27abhi27/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
-</a>
-</p>
+</td>
+
+<td width="70%" valign="top">
+
+<h1>Hi 👋, I'm Abhishek Kumar</h1>
+<h3>Python Developer | Data Science & Generative AI Enthusiast</h3>
+
+Turning data into insights • Building intelligent systems • Always learning 🚀
+
+<img src="https://komarev.com/ghpvc/?username=abhishekcs0024&label=Profile%20Views&color=0e75b6&style=flat" />
+
+---
+
+## 🧠 About Me
+- 🔭 Currently working on **Generative AI & Agentic AI systems**
+- 🌱 Learning **LangChain, LangGraph & LLM workflows**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, GenAI**
 
 ---
 
 ## ⚙️ Languages & Tools
-
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pysolanki&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pysolanki&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekcs0024&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekcs0024&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pysolanki&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcs0024&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🖤 Minimal • AI • Data
+### 🖤 AI • Code • Minimalism
+
+</td>
+</tr>
+</table>
