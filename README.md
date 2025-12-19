@@ -1,4 +1,4 @@
-<img src="ai-banner-concept-in-the-digital-style-generative-vector-54502294.png" alt="description" width="600"/>
+<img src="ai-banner-concept-in-the-digital-style-generative-vector-54502294.png" alt="description" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Python Developer | Data Science & Generative AI Enthusiast</h3>
